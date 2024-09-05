@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/y0FCRFR/cover1.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Alice Greene",
+      "author_img": "https://i.ibb.co/cwt6ph6/author1.jpg",
+      "posted_date": "2024-08-10",
+      "reading_time": 7,
+      "hashtags": ["#fantasy", "#adventure", "#mystery"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/D4b4T32/cover2.jpg",
+      "title": "Journey to the Unknown",
+      "author": "Robert Smith",
+      "author_img": "https://i.ibb.co/HVJ1T3H/author2.jpg",
+      "posted_date": "2024-08-15",
+      "reading_time": 5,
+      "hashtags": ["#scifi", "#exploration", "#space"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/JmNpM6B/cover3.jpg",
+      "title": "Whispers of the Wind",
+      "author": "Emily Clarke",
+      "author_img": "https://i.ibb.co/mcWd4g6/author3.jpg",
+      "posted_date": "2024-08-18",
+      "reading_time": 6,
+      "hashtags": ["#poetry", "#nature", "#inspiration"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/3Whw3Tg/cover4.jpg",
+      "title": "The Lost Chronicles",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/BBHPKCm/author4.jpg",
+      "posted_date": "2024-08-12",
+      "reading_time": 8,
+      "hashtags": ["#history", "#mystery", "#ancient"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/QCcy839/cover5.jpg",
+      "title": "Tales of the Forgotten",
+      "author": "Samantha Lee",
+      "author_img": "https://i.ibb.co/T17ggnL/author5.jpg",
+      "posted_date": "2024-08-20",
+      "reading_time": 4,
+      "hashtags": ["#shortstory", "#drama", "#emotions"]
+    }
+  ]
